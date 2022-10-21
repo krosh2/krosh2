@@ -2,11 +2,11 @@
   <img src="https://media.giphy.com/media/ncsQI9sF3pa8w/giphy.gif" width="200"/>
 </div>
 <div id="badges" align="center">
-  <a href="your-linkedin-URL">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  <a href="https://vk.com/horovodiskaty">
+    <img src="https://raw.githubusercontent.com/VKCOM/icons/667728100d9d5deec1908b9988d9c2174316a625/src/svg/28/logo_vk_outline_28.svg" width="30" height="30" alt="Vk"/>
   </a>
-  <a href="your-youtube-URL">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  <a href="https://ok.ru/feed">
+    <img src="https://cdn.icon-icons.com/icons2/2232/PNG/512/classmates_logo_icon_134599.png" width="30" height="30" alt="OK"/>
   </a>
 </div>
 <div id="viewprof" align="center">
